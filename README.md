@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smakiee
-- 👀 I’m interested in Rap Music and playing footbal
+- 👀 I’m interested in playing footbal, rap music and technology
 - 🌱 I’m currently learning Jave Script(React, Node.js, Angular)
 - 💞️ I’m looking to collaborate on Frontend Project for Juniors
 - 📫 How to reach me m.smaka@wp.pl
