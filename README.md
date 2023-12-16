@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smakiee
-- 👀 I’m interested in playing footbal,polish and spanisch freestyle and tuning cars
+- 👀 I’m interested in playing footbal,polish and spanish freestyle and tuning cars
 - 🌱 I’m currently learning Jave Script(React, Node.js, Angular)
 - 💞️ I’m looking to collaborate on Frontend Project for Juniors
 - 📫 How to reach me m.smaka@wp.pl
